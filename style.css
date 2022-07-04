@@ -698,9 +698,13 @@ footer {
         transition: 0.5s;
     }
 
+    .container.education .boxEdu .cardEdu {
+        width: 300px;
+    }
+
     .container.about .contentAbout .aboutText {
         padding: 0px 20px;
-        width: 400px;
+        width: 300px;
     }
 
     .container.skills .listSkills {
