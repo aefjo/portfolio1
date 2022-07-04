@@ -703,8 +703,31 @@ footer {
         width: 400px;
     }
 
-        .container.skills .listSkills {
+    .container.skills .listSkills {
         width: 400px;
+    }
+
+    .container.training ul {
+        padding-bottom: 30px;
+    }
+
+    .container.training ul li {
+        width: 300px;
+    }
+
+    .container.skills .listSkills {
+        width: 300px;
+    }
+
+    .container.about .contentAbout .image {
+        width: 300px;
+        height: 200px;
+    }
+        
+    .container.about .contentAbout .aboutText {
+        color: white;
+        text-align: justify;
+        width: 300px;
     }
 
 
