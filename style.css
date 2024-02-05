@@ -134,13 +134,16 @@ html{
 
 @keyframes textanim{
   25%{
-    content: "Hi I'm Junior Front End";
+    content: "Hi I'm Front End Developer";
   }
   50%{
-    content: "Hi I'm Web Developer";
+    content: "Hi I'm Back End Developer";
   }
   75%{
-    content: "Love Programming";
+    content: "Hi I'm Full Stack Developer";
+  }
+  100%{
+    content: "Hi I'm Web Developer";
   }
 }
 
@@ -286,6 +289,10 @@ section{
   bottom: 0;
 }
 
+.webdesign:after{
+  width: 85%;
+}
+
 .html:after{
   width: 80%;
 }
@@ -308,6 +315,34 @@ section{
 
 .jquery:after{
   width: 55%;
+}
+
+.laravel:after{
+  width: 75%;
+}
+
+.mysql:after{
+  width: 50%;
+}
+
+.sql:after{
+  width: 50%;
+}
+
+.bootstrap:after {
+  width: 60%;
+}
+
+.reactjs:after {
+  width: 65%;
+}
+
+.nodejs:after {
+  width: 65%;
+}
+
+.expressjs:after{
+  width: 65%;
 }
 
 section.dark{
