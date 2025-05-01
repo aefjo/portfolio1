@@ -345,6 +345,14 @@ section{
   width: 65%;
 }
 
+.reactnative:after{
+  width: 70%;
+}
+
+.flutter:after{
+  width: 70%;
+}
+
 section.dark{
   background-color: #353b48;
 }
